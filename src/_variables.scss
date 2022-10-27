@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chivo&family=Roboto+Condensed:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic&family=Lato:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stick&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Limelight&family=Signika:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Work+Sans&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  border: 0; 
+}
+
+$header-img: "https://res.cloudinary.com/checkadigs/image/upload/v1601241771/header00_e1dkhx.webp";
+$f2: Chivo;
+$f1: "Roboto Condensed";
+$f3: "Allerta Stencil";
+$f4: Stick;
+$c1: #F36B2B;
+$c2: #F4F4F4;
+$c3: #ebd1d1;
+$c4: rgb(31, 27, 27);
+$c5: #FFFFFF; 
+$c6: #E33D3D;
+
+// .button { 
+//     position: absolute;
+//     left: 10%;
+//     top: 10%;p
+//     padding: 2rem 2.5rem;
+//     border-radius: 11px;
+//     transition:  250ms ease-out;
+//     // background: #55b9f3;
+//     // box-shadow:  9px 9px 18px #489dcf, 
+//     //             -5px -4px 8px #217897;
+
+//     &:hover {
+//         box-shadow: inset 12px 12px 18px #a1a1a11e, 
+//         inset -5px -4px 8px #333333;
+//         color: #fff;
+//         transform: translateY(-10px);
+//         background-color: rgb(19, 17, 17);
+//     }
+// }
